@@ -1,4 +1,4 @@
-module stk-optn
+module stock-options
 
 go 1.14
 
